@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "226574900537",
+    "project_id": "fwoapp-27b94",
+    "storage_bucket": "fwoapp-27b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226574900537:android:e38f0e90faef6233ee1ce8",
+        "android_client_info": {
+          "package_name": "com.codingenu.fwo_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfEkH8_Jhx92gW7-jwo8hkOcT-VCJ7-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226574900537:android:c02f9af5e03d762cee1ce8",
+        "android_client_info": {
+          "package_name": "com.codingenu.fwoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfEkH8_Jhx92gW7-jwo8hkOcT-VCJ7-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226574900537:android:0433f5cce908abe5ee1ce8",
+        "android_client_info": {
+          "package_name": "com.ous"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfEkH8_Jhx92gW7-jwo8hkOcT-VCJ7-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
